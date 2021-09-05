@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "02940422a2a18a5decb8",
+    "revision": "0b30ec924277bfc9e93b",
     "url": "/static/css/main.afcbe110.chunk.css"
   },
   {
-    "revision": "02940422a2a18a5decb8",
-    "url": "/static/js/main.02940422.chunk.js"
+    "revision": "0b30ec924277bfc9e93b",
+    "url": "/static/js/main.0b30ec92.chunk.js"
   },
   {
     "revision": "2754bb7694f957e23318",
@@ -21,10 +21,10 @@ self.__precacheManifest = [
   },
   {
     "revision": "ac5f1755c65a31f837788b16ed272b3b",
-    "url": "/static/media/cv.ac5f1755.pdf"
+    "url": "/static/media/Sampurnagautam2021.ac5f1755.pdf"
   },
   {
-    "revision": "ae69f4c7c250ef7db728e24cc0a92b44",
+    "revision": "35e68e09c54e232b79cc80c9073be7e0",
     "url": "/index.html"
   }
 ];

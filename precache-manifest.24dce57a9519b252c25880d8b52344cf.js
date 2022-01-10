@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0b30ec924277bfc9e93b",
+    "revision": "640cdecddfa2040bb881",
     "url": "/static/css/main.afcbe110.chunk.css"
   },
   {
-    "revision": "0b30ec924277bfc9e93b",
-    "url": "/static/js/main.0b30ec92.chunk.js"
+    "revision": "640cdecddfa2040bb881",
+    "url": "/static/js/main.640cdecd.chunk.js"
   },
   {
     "revision": "2754bb7694f957e23318",
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/static/media/me.5df68fe0.jpg"
   },
   {
-    "revision": "ac5f1755c65a31f837788b16ed272b3b",
-    "url": "/static/media/Sampurnagautam2021.ac5f1755.pdf"
+    "revision": "d2b7df8b7417b6e51389dde84e091dbd",
+    "url": "/static/media/samResume2022.d2b7df8b.pdf"
   },
   {
-    "revision": "35e68e09c54e232b79cc80c9073be7e0",
+    "revision": "83da0c6332698ed4d27e0ae3861fcb89",
     "url": "/index.html"
   }
 ];
